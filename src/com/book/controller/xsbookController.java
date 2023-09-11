@@ -42,7 +42,6 @@ public class xsbookController {
      * 有参构造器
      *
      * @param srcPath     源文件的路径字符串
-     * @param destDirPath 目标目录的路径字符串
      * @param chaps       每几章分一个子包
      */
     public void SplitBigTXT(String srcPath, int chaps) {
