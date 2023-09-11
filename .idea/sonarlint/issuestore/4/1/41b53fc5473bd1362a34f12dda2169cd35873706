@@ -1,0 +1,45 @@
+
+D
+java:S1172Z".Remove this unused method parameter "srcPath".(àºÅ
+A
+java:S1144¤"*Remove this unused private "split" method.(–ƒıó
+\
+java:S2147œ"ECombine this catch with the one at line 152, which has the same body.(ï­£Ä
+c	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êñ
+]
+java:S1075ö"ARefactor your code to get this URI from a customizable parameter.(ÄØ¼¼ıÿÿÿÿ
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¸ç¬É
+O	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(æãï”
+G
+java:S1068",Remove this unused "fileSize" private field.(€øÚ—üÿÿÿÿ
+\
+java:S2147š"ECombine this catch with the one at line 152, which has the same body.(‹±ÃÆ
+?
+java:S1604û"(Make this anonymous inner class a lambda(Ø‹ùÄ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‰ÆÅãûÿÿÿÿ
+r
+java:S1450"WRemove the "fileName" field and declare it as a local variable in the relevant methods.(·‡–Ûüÿÿÿÿ
+8
+java:S1643Ü"Use a StringBuilder instead.(˜–õ•úÿÿÿÿ
+O	java:S106ş"9Replace this use of System.out or System.err by a logger.(¬¾÷µ
+8
+java:S1643Ñ"Use a StringBuilder instead.(˜–õ•úÿÿÿÿ
+r
+java:S1450"WRemove the "fileSize" field and declare it as a local variable in the relevant methods.(€øÚ—üÿÿÿÿ
+b
+java:S1192…"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ç ‚¯şÿÿÿÿ
+U
+java:S4719À"9Replace charset name argument with StandardCharsets.UTF_8(“˜ß»ûÿÿÿÿ
+O
+java:S4719Â"9Replace charset name argument with StandardCharsets.UTF_8(Øè·+
+c	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í©¥
+U
+java:S4719…"9Replace charset name argument with StandardCharsets.UTF_8(ç ‚¯şÿÿÿÿ
+A
+java:S5869‡"*Remove duplicates in this character class.(Ÿù¥Ñ
+W	java:S125…"<This block of commented-out lines of code should be removed.(”ÓŒâşÿÿÿÿ
+c	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓùáÖ
+I
+java:S1172ô"+Remove this unused method parameter "args".(Î½ºğ8Šÿ¿÷£0
+W
+java:S1117ø"9Rename "chaps" which hides the field declared at line 23.(°›Ó¸8Šÿ¿÷£0
